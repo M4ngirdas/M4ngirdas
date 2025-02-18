@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<p align="center"><strong><span style="font-size: 100px;">🚀 M4ngirdas' GitHub Profile</span></strong></p>
+<h3 align="center"><strong><span style="font-size: 50px;">🚀 M4ngirdas' GitHub Profile</span></strong></h3>
 
 
 
