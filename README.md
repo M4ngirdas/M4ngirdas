@@ -29,4 +29,4 @@
 
 ---
 
-<p align="center">🔥 Keep coding and building awesome things! 🚀</p>
+<p align="center">🔥 Keep coding and dont give up!</p>
