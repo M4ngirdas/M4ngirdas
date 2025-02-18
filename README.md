@@ -6,10 +6,10 @@
 
 ### 🚀 Tech Stack  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git-logo.svg" alt="Git" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="55" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="55" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="55" />
+  <img src="https://img.icons8.com/ios-filled/50/F05033/git.png" alt="Git" width="55" />
 </p>
 
 ---
@@ -28,3 +28,4 @@
 ---
 
 <p align="center">🔥 Keep coding and dont give up!</p>
+
