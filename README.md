@@ -16,16 +16,25 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4ngirdas&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4ngirdas&theme=dark&hide_border=false" width="350"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4ngirdas&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ngirdas&layout=compact&theme=dark&hide_border=false" width="350"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ngirdas&layout=compact&theme=radical" width="400"/>
+  <span style="font-size: 20px; font-weight: bold; color: #f1f1f1;">Total Time Coded</span>
 </p>
+<p align="center" style="background-color: #1e1e1e; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://wakatime.com/badge/user/227c609a-e3b1-47b1-8e8f-7e368c0b34e6.svg" alt="Total time coded" />
+</p>
+
+
+
+
+
+
+
 
 ---
 
 <p align="center">🔥 Keep coding and dont give up!</p>
-
