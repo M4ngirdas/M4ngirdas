@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Tech Stack % Tools  
+### 🚀 Tech Stack & Tools  
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="55" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="55" />
