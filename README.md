@@ -8,7 +8,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="55" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="55" />
   <img src="https://img.icons8.com/ios-filled/50/F05033/git.png" alt="Git" width="55" />
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="55" />
 </p>
 
 ---
