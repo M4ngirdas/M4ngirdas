@@ -22,9 +22,10 @@
 <p align="center">
   <span style="font-size: 20px; font-weight: bold; color: #f1f1f1;">Total Time Coded</span>
 </p>
-[![wakatime](https://wakatime.com/badge/user/227c609a-e3b1-47b1-8e8f-7e368c0b34e6.svg)](https://wakatime.com/@227c609a-e3b1-47b1-8e8f-7e368c0b34e6)
+<p align="center">
+  <img src="https://wakatime.com/badge/user/227c609a-e3b1-47b1-8e8f-7e368c0b34e6.svg?style=for-the-badge" alt="Total time coded" />
+</p>
 
----
 
 <p align="center">🔥 Keep coding and don’t give up!</p>
 
