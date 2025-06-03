@@ -13,8 +13,6 @@
 </table>
 
 ---
-
----
  
 ### ⏳ Total coding time & Profile views
 <p align="center">
