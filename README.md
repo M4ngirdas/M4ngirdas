@@ -14,14 +14,6 @@
 
 ---
 
-### 📊 GitHub stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4ngirdas&theme=dark&hide_border=false" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ngirdas&layout=compact&theme=dark&hide_border=false" width="350"/>
-</p>
-
 ---
  
 ### ⏳ Total coding time & Profile views
