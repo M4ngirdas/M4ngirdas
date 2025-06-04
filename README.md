@@ -1,4 +1,4 @@
-<h3 align="left"><strong><span style="font-size: 50px;">💡 Hey, I'm M4ngirdas! (Mangirdas M.)</span></strong></h3>
+<h3 align="left"><strong><span style="font-size: 50px;">💡 Hey, I'm M4ngirdas!</span></strong></h3>
 
 ---
 
