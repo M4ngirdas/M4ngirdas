@@ -21,7 +21,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M4ngirdas&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
-
-
-
----
