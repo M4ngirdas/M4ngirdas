@@ -25,5 +25,3 @@
 
 
 ---
-
-<p align="center">🔥 Keep coding and don’t give up!</p>
