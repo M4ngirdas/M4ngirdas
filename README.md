@@ -19,5 +19,5 @@
   <img src="https://wakatime.com/badge/user/227c609a-e3b1-47b1-8e8f-7e368c0b34e6.svg?style=for-the-badge&color=blue" alt="Total time coded"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4ngirdas&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  https://www.codewars.com/users/M4ngirdas/badges/large
 </p>
