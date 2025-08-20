@@ -18,6 +18,6 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/227c609a-e3b1-47b1-8e8f-7e368c0b34e6.svg?style=for-the-badge&color=blue" alt="Total time coded"/>
 </p>
-<p align="center">
-  https://www.codewars.com/users/M4ngirdas/badges/large
-</p>
+<a href="https://www.codewars.com/users/M4ngirdas">
+  <img src="https://www.codewars.com/users/M4ngirdas/badges/large" alt="Codewars Badge">
+</a>
