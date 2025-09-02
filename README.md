@@ -9,7 +9,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" width="55"/><br>CSS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="55"/><br>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/F05033/git.png" width="55"/><br>Git</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55"/><br>Tailwind CSS</td>
   </tr>
 </table>
 
