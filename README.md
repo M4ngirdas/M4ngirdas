@@ -7,9 +7,9 @@
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="55"/><br>HTML</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" width="55"/><br>CSS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="55"/><br>Tailwind</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="55"/><br>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="55"/><br>Git</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="55"/><br>Tailwind</td>
   </tr>
 </table>
 
