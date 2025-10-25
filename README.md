@@ -1,7 +1,3 @@
-<h3 align="left"><strong><span style="font-size: 50px;">💡 Hey, I'm M4ngirdas!</span></strong></h3>
-
----
-
 ### 🚀 Tech stack & Tools  
 <table align="center">
   <tr>
