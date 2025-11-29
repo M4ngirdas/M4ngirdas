@@ -5,7 +5,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" width="55" padding="40"/><br>CSS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="55" padding="40"/><br>Tailwind CSS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="55" padding="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://icons8.com/icon/asWSSTBrDlTW/react" width="55" padding="40"/><br>React</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" padding="40"/><br>React</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="55" padding="40"/><br>Git</td>
   </tr>
 </table>
