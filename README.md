@@ -10,3 +10,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="55" padding="40"/><br>Git</td>
   </tr>
 </table>
+
+### ⏱️ Coding Stats (WakaTime)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
