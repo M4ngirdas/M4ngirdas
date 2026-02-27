@@ -13,4 +13,4 @@
 
 ### ⏱️ Coding Stats (WakaTime)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=M4ngirdas)
