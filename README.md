@@ -1,4 +1,4 @@
-### ☕ Tech stack & Tools  
+### 🍃 Tech stack & Tools  
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="55" padding="40"/><br>HTML</td>
