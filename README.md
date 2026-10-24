@@ -7,6 +7,9 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="55" padding="40"/><br>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" padding="40"/><br>React</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/vite.png" width="55" padding="40"/><br>Vite</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="55" padding="40"/><br>Node.js</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/express-js.png" width="55" padding="40"/><br>Express</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="55" padding="40"/><br>MongoDB</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="55" padding="40"/><br>Git</td>
   </tr>
 </table>
